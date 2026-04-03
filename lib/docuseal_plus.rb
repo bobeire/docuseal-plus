@@ -26,10 +26,10 @@ module DocusealPlus
 
         # Branding
         fork_name: 'DocuSeal Plus',
-        fork_company: 'Speedbits',
-        fork_company_full: 'Smart In Venture GmbH',
-        fork_website: 'https://www.speedbits.io',
-        fork_repository: 'https://github.com/speedbitsinfinitytools/docuseal-plus'
+        fork_company: 'RHITCS',
+        fork_company_full: 'CONSULTANCY SERVICE',
+        fork_website: 'https://www.rhitcs.com',
+        fork_repository: 'https://github.com/bobeire/docuseal-plus'
       }
     end
 
